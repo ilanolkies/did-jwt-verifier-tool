@@ -1,0 +1,16 @@
+{
+  "name": "@rsksmart/did-jwt-verifier-tool",
+  "version": "1.0.0",
+  "description": "A simple tool to verify DID JWTs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "did-jwt": "^4.6.2",
+    "did-resolver": "^2.1.1",
+    "ethr-did-resolver": "^3.0.0"
+  }
+}
